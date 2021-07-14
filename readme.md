@@ -44,3 +44,5 @@ Nova caixa de texto
 
 
 
+## Veja o resultado do estudo Markdown
+![Tela do VSCode](tela.png)
