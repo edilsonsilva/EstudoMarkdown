@@ -1,3 +1,10 @@
+# Nosso Projeto com Documentação
+
+![](https://img.shields.io/badge/estudo-markdown-green)
+![](https://img.shields.io/badge/vers%C3%A3o-1.0.0.1-orange)
+![](https://img.shields.io/badge/script-javascript-red)
+![](https://img.shields.io/github/watchers/edilsonsilva/estudomarkdown?label=edilsonsilva&logoColor=blue&style=social)
+
 Estou escrevendo minha **documentação** para *estudar* um pouco de ***Markdown***
 
 # Titulo do projeto
