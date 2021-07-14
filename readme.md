@@ -3,8 +3,6 @@
 ![](https://img.shields.io/badge/estudo-markdown-green)
 ![](https://img.shields.io/badge/vers%C3%A3o-1.0.0.1-orange)
 ![](https://img.shields.io/badge/script-javascript-red)
-
-
 [![](https://img.shields.io/github/watchers/edilsonsilva/estudomarkdown?label=edilsonsilva&logoColor=blue&style=social)](http://www.instagram.com)
 
 Estou escrevendo minha **documentação** para *estudar* um pouco de ***Markdown***
@@ -55,3 +53,22 @@ Nova caixa de texto
 
 ## Veja o resultado do estudo Markdown
 ![Tela do VSCode](tela.png)
+
+### Tarefas
+
+- [x] Montar o computador
+- [x] Formatar o computador
+- [x] Preparar o pendrive de boot
+- [] Instalar o sistema operacional no computador
+- [] Verificar a instalação dos drivers
+
+### Sistemas e Empresas
+
+Empresas|Sistemas|Versão
+---------|----------|--------
+Microsoft|Windows   | 11
+Apple|MacOS|10.14
+Ubuntu|Focal|2004
+RedHat|Enterprise| 8
+
+
