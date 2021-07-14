@@ -72,3 +72,11 @@ Ubuntu|Focal|2004
 RedHat|Enterprise| 8
 
 
+### Application and Data (Aplicação e Dados)
+
+JQuery|Python|NodeJS|React
+------|------|------|------
+![](img1.jpg)|![](img2.png)|![](img3.png)|![](img4.png)
+
+
+
